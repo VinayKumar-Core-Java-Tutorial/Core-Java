@@ -11,4 +11,4 @@ Introduction of an identifiers
 	length. 
 	Java Identifiers are case sensitive.
 	Reserved words (or) keywords should not use as an identifier.
-	Interfaces and classes are also should not use as an identifier.
+	Interfaces and classes are also should not use as an identifier

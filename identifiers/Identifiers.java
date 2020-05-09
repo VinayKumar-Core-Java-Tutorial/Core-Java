@@ -1,6 +1,6 @@
 package identifiers;
 
-/*Introduction of an identifiers
+/*Introduction of an identifiers.
 1.	Explain about an identifier?
 	Any name in java programming language is called an identifiers
 	It may be class name, method name, variable name and label name.
