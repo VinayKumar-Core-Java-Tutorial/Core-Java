@@ -1,6 +1,4 @@
-package identifiers;
-
-/*Introduction of an identifiers
+Introduction of an identifiers
 1.	Explain about an identifier?
 	Any name in java programming language is called an identifiers
 	It may be class name, method name, variable name and label name.
@@ -13,13 +11,4 @@ package identifiers;
 	length. 
 	Java Identifiers are case sensitive.
 	Reserved words (or) keywords should not use as an identifier.
-	Interfaces and classes are also should not use as an identifier.*/
-
-public class Identifiers {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
+	Interfaces and classes are also should not use as an identifier.
