@@ -1,4 +1,4 @@
-package _3.Literals_3;
+package _3.Literals;
 
 public class Charchter_Literals {
 	public static void main(String[] args) 
