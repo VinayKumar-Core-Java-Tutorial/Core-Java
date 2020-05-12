@@ -1,4 +1,4 @@
-package Data_Types_2;
+package _2.Data_Types;
 
 /*1. Explanation about the data with example?
 	*	Data is a collection of row facts which does not have a proper meaning.

@@ -1,4 +1,6 @@
-Introduction of an identifiers
+package _1.Identifiers_Keywords;
+
+/*Introduction of an identifiers.
 1.	Explain about an identifier?
 	Any name in java programming language is called an identifiers
 	It may be class name, method name, variable name and label name.
@@ -11,4 +13,15 @@ Introduction of an identifiers
 	length. 
 	Java Identifiers are case sensitive.
 	Reserved words (or) keywords should not use as an identifier.
-	Interfaces and classes are also should not use as an identifier
+	Interfaces and classes are also should not use as an identifier.*/
+
+public class Identifiers {//Identifiers is an identifier
+
+	public static void main(String[] args) {//main is an identifiers
+		// TODO Auto-generated method stub
+		 int x =10;//X is an identifier
+		
+
+	}
+
+}

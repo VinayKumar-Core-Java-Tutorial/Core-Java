@@ -1,4 +1,4 @@
-package Literals_3;
+package _3.Literals_3;
 
 public class Boolean_Literals {
 

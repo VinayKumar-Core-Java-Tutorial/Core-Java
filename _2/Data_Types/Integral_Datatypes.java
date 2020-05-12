@@ -1,4 +1,4 @@
-package Data_Types_2;
+package _2.Data_Types;
 
 /*12.	What is the basic aim of integer category data types?
  		The basic aim of the integer category data types is to store integer data in the main memory of the computer by allocating sufficient amount of memory space.

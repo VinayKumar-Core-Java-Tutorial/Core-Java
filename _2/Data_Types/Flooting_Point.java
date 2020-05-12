@@ -1,4 +1,4 @@
-package Data_Types_2;
+package _2.Data_Types;
 
 public class Flooting_Point {
 	/*

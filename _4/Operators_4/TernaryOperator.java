@@ -1,4 +1,4 @@
-package Operators_4;
+package _4.Operators_4;
 
 public class TernaryOperator {
 
